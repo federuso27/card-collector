@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Sobre Pokémon Escarlata y Púrpura",
+    "franchise": "pokemon",
+    "price": 4000,
+    "cardCount": 10,
+    "stock": 30,
+    "description": "Sobre de la última expansión de Pokémon, con posibilidad de cartas holográficas.",
+    "image": "/images/cartas-tcg/boosters/pokemon_scarlet_violet_booster.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sobre Pokémon Base Set",
+    "franchise": "pokemon",
+    "price": 6000,
+    "cardCount": 11,
+    "stock": 15,
+    "description": "Reedición del set base clásico, ideal para nostálgicos coleccionistas.",
+    "image": "/images/cartas-tcg/boosters/pokemon_base_set_booster.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sobre Yu-Gi-Oh Legend of Blue Eyes",
+    "franchise": "yugioh",
+    "price": 5000,
+    "cardCount": 9,
+    "stock": 20,
+    "description": "Uno de los sobres más icónicos, con chance de sacar Blue-Eyes White Dragon.",
+    "image": "/images/cartas-tcg/boosters/yugioh_legend_blue_eyes_booster.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sobre Yu-Gi-Oh Duelist Pack",
+    "franchise": "yugioh",
+    "price": 3500,
+    "cardCount": 8,
+    "stock": 25,
+    "description": "Sobre económico enfocado en un duelista particular del anime.",
+    "image": "/images/cartas-tcg/boosters/yugioh_duelist_pack_yugi_booster.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sobre Magic Dominaria",
+    "franchise": "magic",
+    "price": 4500,
+    "cardCount": 15,
+    "stock": 18,
+    "description": "Expansión ambientada en el plano original de Magic: The Gathering.",
+    "image": "/images/cartas-tcg/boosters/magic_dominaria_booster.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sobre Magic Innistrad",
+    "franchise": "magic",
+    "price": 4800,
+    "cardCount": 15,
+    "stock": 16,
+    "description": "Temática de terror gótico, con criaturas licántropas y vampíricas.",
+    "image": "/images/cartas-tcg/boosters/magic_innistrad_booster.jpg"
+  }
+]

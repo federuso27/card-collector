@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "franchise": "pokemon",
+    "rarity": "Común",
+    "price": 500,
+    "stock": 20,
+    "description": "El ratón eléctrico más famoso del mundo Pokémon. Ideal para empezar una colección.",
+    "image": "/images/cartas-tcg/pokemon/pikachu.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Charizard",
+    "franchise": "pokemon",
+    "rarity": "Ultra Rara",
+    "price": 15000,
+    "stock": 3,
+    "description": "Carta muy buscada por coleccionistas. Ilustración holográfica del Pokémon dragón de fuego.",
+    "image": "/images/cartas-tcg/pokemon/charizard.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mewtwo",
+    "franchise": "pokemon",
+    "rarity": "Rara",
+    "price": 8000,
+    "stock": 5,
+    "description": "El Pokémon psíquico creado en laboratorio. Ataques de gran poder.",
+    "image": "/images/cartas-tcg/pokemon/mewtwo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Snorlax",
+    "franchise": "pokemon",
+    "rarity": "Poco Común",
+    "price": 1200,
+    "stock": 10,
+    "description": "Gran cantidad de puntos de vida, perfecto para mazos defensivos.",
+    "image": "/images/cartas-tcg/pokemon/snorlax.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Gyarados",
+    "franchise": "pokemon",
+    "rarity": "Rara",
+    "price": 6000,
+    "stock": 6,
+    "description": "Evoluciona de Magikarp. Ilustración clásica del set base.",
+    "image": "/images/cartas-tcg/pokemon/gyarados.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dark Magician",
+    "franchise": "yugioh",
+    "rarity": "Ultra Rara",
+    "price": 12000,
+    "stock": 4,
+    "description": "El mago definitivo de Yugi Muto. Un clásico infaltable en cualquier colección.",
+    "image": "/images/cartas-tcg/yugioh/Dark_Magician.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Blue-Eyes White Dragon",
+    "franchise": "yugioh",
+    "rarity": "Secreta",
+    "price": 20000,
+    "stock": 2,
+    "description": "El dragón legendario de Seto Kaiba. Una de las cartas más icónicas del TCG.",
+    "image": "/images/cartas-tcg/yugioh/Blue_Eyes_White_Dragon.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Exodia the Forbidden One",
+    "franchise": "yugioh",
+    "rarity": "Secreta",
+    "price": 25000,
+    "stock": 1,
+    "description": "Reúne las 5 piezas y gana la partida al instante. Pieza de colección top.",
+    "image": "/images/cartas-tcg/yugioh/Exodia_the_Forbidden_One.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kuriboh",
+    "franchise": "yugioh",
+    "rarity": "Común",
+    "price": 300,
+    "stock": 25,
+    "description": "Pequeña bola de pelusa que sacrifica su vida para protegerte del daño.",
+    "image": "/images/cartas-tcg/yugioh/Kuriboh.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Summoned Skull",
+    "franchise": "yugioh",
+    "rarity": "Rara",
+    "price": 5000,
+    "stock": 7,
+    "description": "Demonio oscuro de ataque elevado, muy usado en mazos clásicos.",
+    "image": "/images/cartas-tcg/yugioh/Summoned_Skull.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Black Lotus",
+    "franchise": "magic",
+    "rarity": "Secreta",
+    "price": 50000,
+    "stock": 1,
+    "description": "La carta más valiosa de Magic: The Gathering. Pieza de museo para coleccionistas.",
+    "image": "/images/cartas-tcg/magic/Black_Lotus.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Llanowar Elves",
+    "franchise": "magic",
+    "rarity": "Común",
+    "price": 400,
+    "stock": 18,
+    "description": "Criatura verde clásica que acelera la rampa de maná.",
+    "image": "/images/cartas-tcg/magic/Llanowar_Elves.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Lightning Bolt",
+    "franchise": "magic",
+    "rarity": "Poco Común",
+    "price": 900,
+    "stock": 15,
+    "description": "Hechizo de daño directo eficiente, un básico en mazos rojos agresivos.",
+    "image": "/images/cartas-tcg/magic/Lightning_Bolt.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Serra Angel",
+    "franchise": "magic",
+    "rarity": "Rara",
+    "price": 4000,
+    "stock": 8,
+    "description": "Ángel volador con vigilancia, ilustración original de los años 90.",
+    "image": "/images/cartas-tcg/magic/Serra_Angel.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Shivan Dragon",
+    "franchise": "magic",
+    "rarity": "Ultra Rara",
+    "price": 11000,
+    "stock": 3,
+    "description": "Dragón rojo con firebreathing, una de las criaturas más recordadas del juego.",
+    "image": "/images/cartas-tcg/magic/Shivan_Dragon.jpg"
+  }
+]

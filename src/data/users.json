@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin123",
+    "name": "Federico Rousseau",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "ana.admin",
+    "password": "admin123",
+    "name": "Ana Gómez",
+    "role": "admin"
+  },
+  {
+    "id": 3,
+    "username": "cliente",
+    "password": "cliente123",
+    "name": "Juan Pérez",
+    "role": "cliente"
+  },
+  {
+    "id": 4,
+    "username": "maria",
+    "password": "cliente123",
+    "name": "María López",
+    "role": "cliente"
+  }
+]
