@@ -2,6 +2,8 @@
 
 Parcial 2 de Plataformas de Desarrollo.
 
+Demo: https://card-collector-iota.vercel.app/
+
 ## Integrantes
 
 Federico Rousseau.
